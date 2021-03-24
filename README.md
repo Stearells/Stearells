@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Stearells
-- 👀 I’m interested in C/C++/Assembly, Gamedev, Lowlevel programming, Machine learning.
+- 👀 I’m interested in C/C++/Assembly, Gamedev, Low level programming, Machine learning.
 - 📫 [VK](https://vk.com/stearells "VK") | [E-mail](mailto:stearells@gmail.com "E-mail")
